@@ -1,0 +1,29 @@
+.glavni{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+.divButtonChaneEmployee{
+    flex-direction: column;
+}
+h3
+{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+.divInfo
+{
+    flex-direction: column;
+}
+.label{
+    margin-right:20px;
+}
+
+.button{
+    margin: 10px;
+}
+.divEmployee{
+    margin-right: 100px;
+}
